@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Slobot-AFK-BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Nazserver.aternos.me",
+    "port": 26397,
+    "version": "26.1.1",
     "try-creative": false
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "I'm a bot player and im here to uptime your server 24/7",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
